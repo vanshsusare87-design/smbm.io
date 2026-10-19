@@ -1,0 +1,6 @@
+{
+  "name": "Shri Mahavir Bal Mandir Bhikangaon",
+  "description": "Official school website for Shri Mahavir Bal Mandir, Bhikangaon (Madhya Pradesh) - Hindi Medium, Nursery to Class 10th, established for over 44 years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
